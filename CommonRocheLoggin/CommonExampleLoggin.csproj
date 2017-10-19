@@ -34,6 +34,7 @@
     <Copyright>Copyright 2017 (c)</Copyright>
     <PackageTags>logger logging logs</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/Maikusan/CommonExampleLoggin</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
